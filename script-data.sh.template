@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export TOKEN="loremipsumdolorsitamet"						# github token, only needed for phase 0
+export GENERATOR="node /path/to/repo-generator/generate.js" # for phase 0
+export GENERATOR="/path/to/repo-generator/generate.sh" 		# for phase 1
+export INPUT="${DIR}/P0-schedule.txt"						# change to P0-schedule or P1-schedule (don't delete the ${DIR})

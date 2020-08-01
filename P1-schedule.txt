@@ -1,0 +1,19 @@
+org-name phase-1
+03 week-1 day-1
+03 week-1 additional pm
+04 week-1 day-2
+05 week-1 day-3
+06 week-1 day-4
+07 week-1 day-5
+10 week-2 day-1
+11 week-2 day-2
+12 week-2 day-3
+13 week-2 day-4 pm
+14 week-2 day-5
+14 week-2 weekend pm
+17 week-3 day-1
+18 week-3 day-2
+19 week-3 day-3
+20 week-3 day-4 pm
+21 week-3 day-5
+24 week-4 day-1
